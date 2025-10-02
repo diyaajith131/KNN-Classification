@@ -34,5 +34,4 @@ It explores KNN with different values of K, evaluates performance, and visualize
 - `interview_questions.md` → Important interview questions  
 - `model_evaluation.md` → Evaluation results  
 
-## 👩‍💻 Author
-AI & ML Internship - Task 6 Submission
+
